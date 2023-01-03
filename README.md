@@ -57,14 +57,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Project <a name="about-project"></a>
 
-> "Space-Travelers' Hub is a website that displays information using the real live data from the SpaceX API TV shows. It also allows you to reserve Rockets and Messions."
+> "In this project, I set up my Metrics WebApp project. It is a mobile web application to check a list of metrics about Latin America's Air Pollution."
 
 ## 🛠 Built With <a name="built-with"></a>
 - React JS
 - Redux
 - JavaScript (ES6)
-- [Rockets API](https://api.spacexdata.com/v3/rockets)
-- [Messions API](https://api.spacexdata.com/v3/missions)
+- [AIR POLLUTION](http://api.openweathermap.org/data/2.5/)
 - Linters (Stylelint, Eslint)
 - Gitflow
 - Jest
@@ -94,7 +93,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://space-traveler.onrender.com)
+- [Live Demo Link](https://phone-metrics-webapp.onrender.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,7 +115,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository by using the command line : 
-- `git clone git clone https://github.com/juaryimami/Space-traveler-hub.git`
+- `git clone git clone https://github.com/juaryimami/metrics-webapp.git`
 
 ### Install
 
@@ -153,11 +152,6 @@ You can deploy this project using:
 - GitHub: [@juaryimami](https://github.com/juaryimami)
 - LinkedIn: [juharYi](https://linkedin.com/in/juhar-yimer/)
 
-👤 **Htetaungkyaw**
-
-- GitHub: [@Htetaungkyaw71](https://github.com/Htetaungkyaw71)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -175,7 +169,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/juaryimami/Space-traveler-hub/issues/).
+Feel free to check the [issues page](https://github.com/juaryimami/metrics-webapp/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
