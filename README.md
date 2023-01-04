@@ -196,7 +196,7 @@ Give a ⭐️ if you like this project!
 
 - **How to use the project**
 
-  - ```git clone https://github.com/juaryimami/math-magicians```
+  - ```git clone https://github.com/juaryimami/metrics-webapp```
 
 - **How to contribute to the project**
 
