@@ -94,6 +94,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://phone-metrics-webapp.onrender.com)
+- [Project Desctiption Video](https://drive.google.com/file/d/10GlJZyvqx39Woj0BnHAywdolAd1_91nE/view?usp=sharing)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,6 +188,8 @@ Give a ⭐️ if you like this project!
 
 - Thank you [Microverse](https://www.microverse.org/) for the project
 
+- Thank you [Nelson Sakwa](https://www.nelson.org) for the design of this project
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
@@ -196,7 +199,7 @@ Give a ⭐️ if you like this project!
 
 - **How to use the project**
 
-  - ```git clone https://github.com/juaryimami/math-magicians```
+  - ```git clone https://github.com/juaryimami/metrics-webapp```
 
 - **How to contribute to the project**
 
